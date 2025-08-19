@@ -1,0 +1,2 @@
+This is the conflict file
+Updates from feature-one
