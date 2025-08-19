@@ -1,1 +1,2 @@
 This is feature 3 A
+This is feature 3 B
