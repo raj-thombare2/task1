@@ -1,2 +1,4 @@
 Learning Git commands.
 Staging, commit, revert, and pushing changes to GitHub.
+
+Done with Rebase, Cherypick, Reflog
