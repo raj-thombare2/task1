@@ -1,2 +1,6 @@
 Day 1: Learning Git commands.
 Staging, commit, revert, and pushing changes to GitHub.
+
+Git staging & revert
+
+Git merge and conflicts
